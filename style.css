@@ -1,8 +1,31 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(8, 85, 110);
+    color: #d87d06;
+    font-size: 21px;
 }
     
+
 h1 {
-    color: navy;
+    font-size: 70px;
+    color: #d87d06;
     margin-left: 20px;
 } 
+
+
+img {
+    width: 850px;
+    height: 500px;
+    object-fit: cover;
+}
+
+.top-section {
+    width: 850px;
+    height: 500px;
+    font-size: 15px;
+    background-image: url(sunset.jpg);
+    background-size: cover;
+}
+
+#photo_text {
+    width: 200px;
+}
