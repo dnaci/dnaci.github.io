@@ -26,6 +26,12 @@ img {
     background-size: cover;
 }
 
+.bottom-image {
+    width: 850px;
+    height: 500px;
+}
+
 #photo_text {
     width: 200px;
 }
+
